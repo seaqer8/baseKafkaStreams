@@ -1,0 +1,17 @@
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/kafka/kafka-streams-scala_3/2.8.0/kafka-streams-scala_3-2.8.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/io/circe/circe-parser_3/0.14.1/circe-parser_3-0.14.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/2.8.0/kafka-clients-2.8.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/kafka/kafka-streams/2.8.0/kafka-streams-2.8.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/io/circe/circe-core_3/0.14.1/circe-core_3-0.14.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/io/circe/circe-generic_3/0.14.1/circe-generic_3-0.14.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/kafka/kafka-streams-scala_3/2.8.0/kafka-streams-scala_3-2.8.0.pom.sha1
+[debug] downloaded https://repo1.maven.org/maven2/com/github/luben/zstd-jni/1.4.9-1/zstd-jni-1.4.9-1.pom
+[debug] downloaded https://repo1.maven.org/maven2/io/circe/circe-numbers_3/0.14.1/circe-numbers_3-0.14.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/typelevel/cats-core_3/2.6.1/cats-core_3-2.6.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/io/circe/circe-jawn_3/0.14.1/circe-jawn_3-0.14.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/kafka/connect-json/2.8.0/connect-json-2.8.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/rocksdb/rocksdbjni/5.18.4/rocksdbjni-5.18.4.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/typelevel/cats-kernel_3/2.6.1/cats-kernel_3-2.6.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/typelevel/jawn-parser_3/1.1.2/jawn-parser_3-1.1.2.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/typelevel/simulacrum-scalafix-annotations_3/0.5.4/simulacrum-scalafix-annotations_3-0.5.4.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/kafka/connect-api/2.8.0/connect-api-2.8.0.pom
